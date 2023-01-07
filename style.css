@@ -41,26 +41,24 @@ th, td {
 .register {
 	padding: 30px 0 0 300px;
 }
-.surname {
-	padding-top: 10px;
-}
-.password {
-	padding-top: 10px;
-}
-.repeat-password {
-	padding: 10px 0 35px 0;
-}
 .name {
 	margin-right: 110px;
 }
 .last-name {
 	margin-right: 122px;
+	padding-top: 10px;
 }
-.pass {
+.email {
+	margin-right: 116px;
+	padding-top: 10px;
+}
+.password {
 	margin-right: 104px;
+	padding-top: 10px;
 }
 .rep-pass {
 	margin-right: 17px;
+	padding: 10px 0 35px 0;
 }
 form button {
 	margin-left: 273px;
