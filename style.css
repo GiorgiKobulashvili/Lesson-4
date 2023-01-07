@@ -1,3 +1,11 @@
+body {
+	background-color: #eff1ef;
+}
+footer {
+	background-color: #9084be;
+	margin-top: 30px;
+}
+
 a {
 	text-decoration: none;
 }
@@ -7,4 +15,51 @@ nav {
 header {
 	background-color: green;
 }
-
+header img {
+	width: 50px;
+}
+header nav li {
+	list-style: none;
+}
+footer img {
+	width: 30px;
+}
+.FB-logo {
+	padding: 20px 0 0 50px;
+}
+.Insta-logo {
+	padding: 20px 0 0 50px;
+}
+.Youtube-logo {
+	padding: 20px 0 0 50px;
+}
+.Twitter-logo {
+	padding: 20px 0 0 50px;
+}
+.register {
+	padding: 30px 0 0 300px;
+}
+.surname {
+	padding-top: 10px;
+}
+.password {
+	padding-top: 10px;
+}
+.repeat-password {
+	padding: 10px 0 35px 0;
+}
+.name {
+	margin-right: 110px;
+}
+.last-name {
+	margin-right: 122px;
+}
+.pass {
+	margin-right: 104px;
+}
+.rep-pass {
+	margin-right: 17px;
+}
+form button {
+	margin-left: 273px;
+}
